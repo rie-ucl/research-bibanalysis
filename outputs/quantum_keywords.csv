@@ -1,167 +1,167 @@
-"","name","strength","freq"
-"1","adiabatic quantum computing",77,13
-"2","artificial intelligence",76,20
-"3","blind quantum computing",52,11
-"4","computational complexity",71,14
-"5","cryogenic temperature",102,23
-"6","deep learning",156,20
-"7","distributed quantum computing",97,14
-"8","electronic structure",165,22
-"9","genetic algorithm",73,16
-"10","image processing",56,11
-"11","internet of things",33,14
-"12","machine learning",730,86
-"13","neural networks",297,34
-"14","particle swarm optimization",66,12
-"15","post-quantum cryptography",59,11
-"16","quantum algorithm",857,117
-"17","quantum algorithms",758,96
-"18","quantum annealing",77,20
-"19","quantum chemistry",229,27
-"20","quantum circuit",807,105
-"21","quantum circuits",615,77
-"22","quantum communication",297,51
-"23","quantum communications",72,11
-"24","quantum computation",729,112
-"25","quantum computer",2005,292
-"26","quantum computers",1488,209
-"27","quantum computing",3919,840
-"28","quantum control",121,20
-"29","quantum cryptography",135,28
-"30","quantum dots",188,31
-"31","quantum entanglement",74,12
-"32","quantum error correction",336,37
-"33","quantum information",879,127
-"34","quantum information processing",466,59
-"35","quantum information science",79,10
-"36","quantum key distribution",202,32
-"37","quantum machine learning",371,37
-"38","quantum mechanics",228,38
-"39","quantum metrology",74,13
-"40","quantum network",226,34
-"41","quantum networks",156,23
-"42","quantum neural network",154,15
-"43","quantum neural networks",120,11
-"44","quantum optics",69,14
-"45","quantum physics",136,22
-"46","quantum processor",277,36
-"47","quantum programming",73,11
-"48","quantum sensing",48,10
-"49","quantum simulation",360,51
-"50","quantum software",58,10
-"51","quantum supremacy",119,16
-"52","quantum technologies",363,48
-"53","quantum technology",65,13
-"54","quantum walk",67,13
-"55","quantum walks",56,11
-"56","semiconductor quantum dot",95,12
-"57","superconducting qubits",182,22
-"58","surface code",184,23
-"59","topological insulator",44,13
-"60","topological quantum computing",133,30
-"61","trapped ions",89,13
-"62","variational algorithms",90,11
-"63","variational quantum eigensolver",220,22
-"64","adiabatic quantum",125,20
-"65","approximate optimization",105,11
-"66","blind quantum",58,12
-"67","boson sampling",69,11
-"68","bound states",76,16
-"69","classical computing",206,28
-"70","computing applications",120,24
-"71","computing system",128,19
-"72","computing systems",108,16
-"73","convolutional neural",108,12
-"74","convolutional neural network",108,12
-"75","cryogenic temperatures",93,20
-"76","distributed quantum",106,15
-"77","efficient quantum",132,19
-"78","energy physics",80,10
-"79","entangled photons",86,13
-"80","error correction",449,56
-"81","experimental realization",94,13
-"82","fault-tolerant quantum",426,55
-"83","fault-tolerant quantum computing",200,30
-"84","hilbert space",174,22
-"85","hybrid quantum",228,28
-"86","hybrid quantum-classical",141,16
-"87","information processing",532,71
-"88","integrated quantum",72,10
-"89","intermediate-scale quantum",399,39
-"90","intermediate-scale quantum devices",115,10
-"91","josephson junctions",41,11
-"92","large-scale quantum",181,26
-"93","learning algorithms",182,20
-"94","learning models",78,10
-"95","light sources",68,13
-"96","logic gates",78,13
-"97","machine learning algorithms",132,14
-"98","majorana bound",64,12
-"99","majorana bound states",59,11
-"100","monte carlo",69,15
-"101","near-term quantum",322,40
-"102","neural network",366,48
-"103","noisy intermediate-scale",351,33
-"104","noisy intermediate-scale quantum",351,33
-"105","optical quantum",204,31
-"106","optimization algorithm",212,32
-"107","optimization problems",125,24
-"108","particle swarm",66,12
-"109","phase estimation",106,12
-"110","phase transition",39,10
-"111","photon emission",64,10
-"112","photon sources",109,15
-"113","photonic quantum",240,28
-"114","practical quantum",136,18
-"115","quantum advantage",214,22
-"116","quantum approximate",104,10
-"117","quantum approximate optimization",104,10
-"118","quantum computational",143,16
-"119","quantum computations",87,12
-"120","quantum computing applications",108,21
-"121","quantum computing system",111,14
-"122","quantum devices",453,52
-"123","quantum dynamics",99,13
-"124","quantum eigensolver",220,22
-"125","quantum error",415,47
-"126","quantum gates",169,25
-"127","quantum hardware",358,49
-"128","quantum image",51,14
-"129","quantum inspired",37,11
-"130","quantum interference",78,16
-"131","quantum logic",139,17
-"132","quantum machine",405,43
-"133","quantum memories",97,14
-"134","quantum neural",154,15
-"135","quantum phase",80,13
-"136","quantum photonic",98,16
-"137","quantum programs",78,14
-"138","quantum simulator",111,15
-"139","quantum speedup",74,11
-"140","quantum state",475,76
-"141","quantum states",294,44
-"142","quantum systems",350,51
-"143","qubit quantum",120,17
-"144","recent developments",51,11
-"145","robust quantum",109,12
-"146","scalable quantum",222,37
-"147","scalable quantum computing",98,16
-"148","search algorithm",67,13
-"149","semiconductor quantum",113,15
-"150","silicon photonic",85,16
-"151","single photon",195,26
-"152","single photons",144,18
-"153","small quantum",91,11
-"154","state preparation",111,20
-"155","state tomography",62,10
-"156","superconducting quantum",259,34
-"157","superconducting qubit",208,26
-"158","support vector",77,11
-"159","swarm optimization",66,12
-"160","topological quantum",181,38
-"161","topological superconductor",68,15
-"162","transition metal",50,19
-"163","unitary coupled",69,10
-"164","universal quantum",299,43
-"165","universal quantum computing",85,12
-"166","variational quantum",421,42
+ID,name,strength,freq,category
+1,adiabatic quantum computing,77,13,Sub-Domain Terms
+2,artificial intelligence,76,20,Generic Terms
+3,blind quantum computing,52,11,Sub-Domain Terms
+4,computational complexity,71,14,Generic Terms
+5,cryogenic temperature,102,23,Use Cases
+6,deep learning,156,20,Generic Terms
+7,distributed quantum computing,97,14,Sub-Domain Terms
+8,electronic structure,165,22,Use Cases
+9,genetic algorithm,73,16,Use Cases
+10,image processing,56,11,Use Cases
+11,internet of things,33,14,Use Cases
+12,machine learning,730,86,Generic Terms
+13,neural networks,297,34,Generic Terms
+14,particle swarm optimization,66,12,Generic Terms
+15,post-quantum cryptography,59,11,Use Cases
+16,quantum algorithm,857,117,Sub-Domain Terms
+17,quantum algorithms,758,96,Sub-Domain Terms
+18,quantum annealing,77,20,Sub-Domain Terms
+19,quantum chemistry,229,27,Sub-Domain Terms
+20,quantum circuit,807,105,Sub-Domain Terms
+21,quantum circuits,615,77,Sub-Domain Terms
+22,quantum communication,297,51,Sub-Domain Terms
+23,quantum communications,72,11,Sub-Domain Terms
+24,quantum computation,729,112,Core Terms
+25,quantum computer,2005,292,Core Terms
+26,quantum computers,1488,209,Core Terms
+27,quantum computing,3919,840,Core Terms
+28,quantum control,121,20,Sub-Domain Terms
+29,quantum cryptography,135,28,Sub-Domain Terms
+30,quantum dots,188,31,Sub-Domain Terms
+31,quantum entanglement,74,12,Sub-Domain Terms
+32,quantum error correction,336,37,Sub-Domain Terms
+33,quantum information,879,127,Sub-Domain Terms
+34,quantum information processing,466,59,Sub-Domain Terms
+35,quantum information science,79,10,Sub-Domain Terms
+36,quantum key distribution,202,32,Sub-Domain Terms
+37,quantum machine learning,371,37,Sub-Domain Terms
+38,quantum mechanics,228,38,Sub-Domain Terms
+39,quantum metrology,74,13,Sub-Domain Terms
+40,quantum network,226,34,Sub-Domain Terms
+41,quantum networks,156,23,Sub-Domain Terms
+42,quantum neural network,154,15,Sub-Domain Terms
+43,quantum neural networks,120,11,Sub-Domain Terms
+44,quantum optics,69,14,Sub-Domain Terms
+45,quantum physics,136,22,Sub-Domain Terms
+46,quantum processor,277,36,Sub-Domain Terms
+47,quantum programming,73,11,Sub-Domain Terms
+48,quantum sensing,48,10,Sub-Domain Terms
+49,quantum simulation,360,51,Core Terms
+50,quantum software,58,10,Core Terms
+51,quantum supremacy,119,16,Core Terms
+52,quantum technologies,363,48,Core Terms
+53,quantum technology,65,13,Core Terms
+54,quantum walk,67,13,Sub-Domain Terms
+55,quantum walks,56,11,Sub-Domain Terms
+56,semiconductor quantum dot,95,12,Use Cases
+57,superconducting qubits,182,22,Sub-Domain Terms
+58,surface code,184,23,Sub-Domain Terms
+59,topological insulator,44,13,Use Cases
+60,topological quantum computing,133,30,Sub-Domain Terms
+61,trapped ions,89,13,Sub-Domain Terms
+62,variational algorithms,90,11,Sub-Domain Terms
+63,variational quantum eigensolver,220,22,Generic Terms
+64,adiabatic quantum,125,20,Sub-Domain Terms
+65,approximate optimization,105,11,Sub-Domain Terms
+66,blind quantum,58,12,Generic Terms
+67,boson sampling,69,11,Sub-Domain Terms
+68,bound states,76,16,Sub-Domain Terms
+69,classical computing,206,28,Sub-Domain Terms
+70,computing applications,120,24,Generic Terms
+71,computing system,128,19,Generic Terms
+72,computing systems,108,16,Generic Terms
+73,convolutional neural,108,12,Generic Terms
+74,convolutional neural network,108,12,Generic Terms
+75,cryogenic temperatures,93,20,Sub-Domain Terms
+76,distributed quantum,106,15,Sub-Domain Terms
+77,efficient quantum,132,19,Sub-Domain Terms
+78,energy physics,80,10,Generic Terms
+79,entangled photons,86,13,Sub-Domain Terms
+80,error correction,449,56,Sub-Domain Terms
+81,experimental realization,94,13,Generic Terms
+82,fault-tolerant quantum,426,55,Sub-Domain Terms
+83,fault-tolerant quantum computing,200,30,Sub-Domain Terms
+84,hilbert space,174,22,Generic Terms
+85,hybrid quantum,228,28,Generic Terms
+86,hybrid quantum-classical,141,16,Generic Terms
+87,information processing,532,71,Sub-Domain Terms
+88,integrated quantum,72,10,Use Cases
+89,intermediate-scale quantum,399,39,Sub-Domain Terms
+90,intermediate-scale quantum devices,115,10,Sub-Domain Terms
+91,josephson junctions,41,11,Use Cases
+92,large-scale quantum,181,26,Use Cases
+93,learning algorithms,182,20,Generic Terms
+94,learning models,78,10,Generic Terms
+95,light sources,68,13,Use Cases
+96,logic gates,78,13,Use Cases
+97,machine learning algorithms,132,14,Generic Terms
+98,majorana bound,64,12,Use Cases
+99,majorana bound states,59,11,Use Cases
+100,monte carlo,69,15,Generic Terms
+101,near-term quantum,322,40,Generic Terms
+102,neural network,366,48,Generic Terms
+103,noisy intermediate-scale,351,33,Sub-Domain Terms
+104,noisy intermediate-scale quantum,351,33,Sub-Domain Terms
+105,optical quantum,204,31,Use Cases
+106,optimization algorithm,212,32,Use Cases
+107,optimization problems,125,24,Use Cases
+108,particle swarm,66,12,Use Cases
+109,phase estimation,106,12,Use Cases
+110,phase transition,39,10,Sub-Domain Terms
+111,photon emission,64,10,Sub-Domain Terms
+112,photon sources,109,15,Use Cases
+113,photonic quantum,240,28,Use Cases
+114,practical quantum,136,18,Use Cases
+115,quantum advantage,214,22,Sub-Domain Terms
+116,quantum approximate,104,10,Sub-Domain Terms
+117,quantum approximate optimization,104,10,Sub-Domain Terms
+118,quantum computational,143,16,Sub-Domain Terms
+119,quantum computations,87,12,Sub-Domain Terms
+120,quantum computing applications,108,21,Sub-Domain Terms
+121,quantum computing system,111,14,Sub-Domain Terms
+122,quantum devices,453,52,Sub-Domain Terms
+123,quantum dynamics,99,13,Sub-Domain Terms
+124,quantum eigensolver,220,22,Sub-Domain Terms
+125,quantum error,415,47,Sub-Domain Terms
+126,quantum gates,169,25,Sub-Domain Terms
+127,quantum hardware,358,49,Sub-Domain Terms
+128,quantum image,51,14,Sub-Domain Terms
+129,quantum inspired,37,11,Sub-Domain Terms
+130,quantum interference,78,16,Sub-Domain Terms
+131,quantum logic,139,17,Sub-Domain Terms
+132,quantum machine,405,43,Sub-Domain Terms
+133,quantum memories,97,14,Sub-Domain Terms
+134,quantum neural,154,15,Sub-Domain Terms
+135,quantum phase,80,13,Sub-Domain Terms
+136,quantum photonic,98,16,Sub-Domain Terms
+137,quantum programs,78,14,Sub-Domain Terms
+138,quantum simulator,111,15,Sub-Domain Terms
+139,quantum speedup,74,11,Sub-Domain Terms
+140,quantum state,475,76,Sub-Domain Terms
+141,quantum states,294,44,Sub-Domain Terms
+142,quantum systems,350,51,Core Terms
+143,qubit quantum,120,17,Sub-Domain Terms
+144,recent developments,51,11,Generic Terms
+145,robust quantum,109,12,Generic Terms
+146,scalable quantum,222,37,Sub-Domain Terms
+147,scalable quantum computing,98,16,Sub-Domain Terms
+148,search algorithm,67,13,Sub-Domain Terms
+149,semiconductor quantum,113,15,Use Cases
+150,silicon photonic,85,16,Use Cases
+151,single photon,195,26,Use Cases
+152,single photons,144,18,Use Cases
+153,small quantum,91,11,Use Cases
+154,state preparation,111,20,Use Cases
+155,state tomography,62,10,Use Cases
+156,superconducting quantum,259,34,Use Cases
+157,superconducting qubit,208,26,Use Cases
+158,support vector,77,11,Generic Terms
+159,swarm optimization,66,12,Use Cases
+160,topological quantum,181,38,Use Cases
+161,topological superconductor,68,15,Use Cases
+162,transition metal,50,19,Use Cases
+163,unitary coupled,69,10,Use Cases
+164,universal quantum,299,43,Sub-Domain Terms
+165,universal quantum computing,85,12,Sub-Domain Terms
+166,variational quantum,421,42,Sub-Domain Terms
